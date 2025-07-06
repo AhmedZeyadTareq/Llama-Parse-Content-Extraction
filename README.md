@@ -22,7 +22,7 @@ A powerful Streamlit application that leverages LlamaParse and OpenAI's GPT mode
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Llama-Parse-Content-Extraction.git
+git clone https://github.com/AhmedZeyadTareq/Llama-Parse-Content-Extraction.git
 cd Llama-Parse-Content-Extraction
 ```
 
