@@ -1,0 +1,7 @@
+markitdown[all]
+streamlit
+openai
+tiktoken
+pytesseract
+PyMuPDF
+Pillow
