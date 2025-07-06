@@ -34,7 +34,7 @@ pip install -r requirements.txt
 ```
 
 3. Set up .env file with API keys:
-```toml
+```
 OPENAI_API_KEY = your-openai-api-key
 LLAMA_API_KEY = your-llamaparse-api-key
 ```
