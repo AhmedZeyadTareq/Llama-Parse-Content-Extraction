@@ -33,11 +33,10 @@ venv\Script\activate
 pip install -r requirements.txt
 ```
 
-3. Set up your API keys in Streamlit secrets:
-Create a `.streamlit/secrets.toml` file with:
+3. Set up .env file with API keys:
 ```toml
-OPENAI_API_KEY = "your-openai-api-key"
-LLAMA_API_KEY = "your-llamaparse-api-key"
+OPENAI_API_KEY = your-openai-api-key
+LLAMA_API_KEY = your-llamaparse-api-key
 ```
 
 ### Usage
